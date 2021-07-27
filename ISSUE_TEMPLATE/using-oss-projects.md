@@ -1,6 +1,6 @@
 Title: Using github.com/ORG/REPO
 
-I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This issue will serve as a tracking issue for verification of this project:
+I would like to use github.com/ORG/REPO as a dependency in the oss-enterprise project. This issue will serve as a tracking issue for verification of this project:
 
 ## Project Health Check
 
